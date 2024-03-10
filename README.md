@@ -10,7 +10,7 @@ Contributed in CSS & JS
 
 [Visit Rajdip's Github](https://github.com/rajdipg000)
 
-###[ Arijit Dutta] (https://github.com/arijitd69)
+### [ Arijit Dutta] (https://github.com/arijitd69)
 
 Contributed in HTML
 
